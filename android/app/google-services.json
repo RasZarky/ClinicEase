@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "15672070886",
+    "firebase_url": "https://clinicease-af5a4-default-rtdb.firebaseio.com",
+    "project_id": "clinicease-af5a4",
+    "storage_bucket": "clinicease-af5a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15672070886:android:51ac39cd277d6d8955a127",
+        "android_client_info": {
+          "package_name": "com.example.myccaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15672070886-vujf2apicakfh68m0pjs91q18k5k0u63.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myccaa",
+            "certificate_hash": "ba93dc9f6532f7642a0c3753ee9611dff17ce1cd"
+          }
+        },
+        {
+          "client_id": "15672070886-jealbj1kvjafp4dkefvsu4bkco7jfgbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_FJQBTrxZrGFIthmfgq3uPIRsTgLZM6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15672070886-jealbj1kvjafp4dkefvsu4bkco7jfgbv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "15672070886-45ccoterpt1lu0bn8gj3fmjb2k8cfgnq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myccaa.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
